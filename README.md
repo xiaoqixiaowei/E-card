@@ -1,6 +1,6 @@
 <img src="https://xiaoqixiaowei.oss-cn-chengdu.aliyuncs.com/img_for_typora/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20231202233913.jpg" alt="微信图片_20231202233913" style="zoom: 15%;" />
 
-## [E-card]电院NFC卡片
+## [SJTU-E-card]电院NFC卡片
 
 > 本项目主要是Jason(我)和Benjamin做的一个纪念品，复刻基本没有难度 :blush:（可能需要一些焊接设备）
 >
