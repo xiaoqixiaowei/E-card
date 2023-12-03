@@ -2,7 +2,7 @@
 
 ## [E-card]电院NFC卡片
 
-> 本项目主要是Jason(我)和Benjamin做的一个纪念品，复刻基本没有难度:blush:（可能需要一些焊接设备）
+> 本项目主要是Jason(我)和Benjamin做的一个纪念品，复刻基本没有难度 :blush:（可能需要一些焊接设备）
 >
 > 个人比较崇拜香农和稚晖君，所以对一些比较有意思的东西都会感兴趣，平时大部分时间还是在学术（主攻通信算法）上。刚刚进学校，有很多课，有些课程比较无聊，打发时间就做了这个东西。
 >
@@ -15,13 +15,13 @@
 > - 使用nt3h1101w0fhkh芯片：只能实现NFC名片功能，不能当作门卡使用
 > - 使用CUID芯片：门卡和一般NFC名片功能都可以实现
 >
-> 如果有对 **元器件如何摆放为地图** 的样式好奇的朋友，后文会详细描述如何拓展到其他地区或者地形NFC卡片的制作一般化方法，可能是原创方法hhh:sunglasses:
+> 如果有对 **元器件如何摆放为地图** 的样式好奇的朋友，后文会详细描述如何拓展到其他地区或者地形NFC卡片的制作一般化方法，可能是原创方法hhh :sunglasses:
 >
 > 后文还讲述了试验过的外壳方案，后面还有一版亚克力的外壳模型还在制作中。。。
 >
 > ---
 >
-> 最后的最后，电院是个大家庭，我还绘制了一个包含电气学院的卡片（这栋楼不在电院群楼太可惜了呜呜）
+> 最后的最后，电院是个大家庭，我还绘制了一个包含电气学院的卡片（这栋楼不在电院群楼太可惜了呜呜 :pensive:）
 
 #### 项目文件说明：
 
@@ -61,7 +61,7 @@
 
 ###### 无外壳
 
-这个其实看着还是挺不错滴，但从完整度上来讲，还是需要一个外壳:smirk:
+这个其实看着还是挺不错滴，但从完整度上来讲，还是需要一个外壳 :smirk:
 
 <img src="https://xiaoqixiaowei.oss-cn-chengdu.aliyuncs.com/img_for_typora/afcb5bda2679b378840348629d66528.jpg" alt="afcb5bda2679b378840348629d66528" style="zoom:25%;" />
 
@@ -89,7 +89,7 @@
 
 ###### 滴胶方案
 
-我自制了一个简易的模具，然后尝试一下滴胶，我是没有成功:joy:，欢迎心灵手巧的朋友自行制作
+我自制了一个简易的模具，然后尝试一下滴胶，我是没有成功 :joy:，欢迎心灵手巧的朋友自行制作
 
 <div align=center>  <img src="https://xiaoqixiaowei.oss-cn-chengdu.aliyuncs.com/img_for_typora/7c1fecc6b96eb6c6bba721a8fe9ae3a.jpg" alt="7c1fecc6b96eb6c6bba721a8fe9ae3a" width="300" height="300" />     <img src="https://xiaoqixiaowei.oss-cn-chengdu.aliyuncs.com/img_for_typora/ed469983ef8ba6367f11581665067c3.png" alt="ed469983ef8ba6367f11581665067c3" width="300" height="300" /> </div>
 
