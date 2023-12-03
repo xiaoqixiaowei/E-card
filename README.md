@@ -43,7 +43,7 @@
 
 简要说明一下这个软件能够实现的功能（这里以安卓鸿蒙手机为例，IOS系统的同理，不过功能似乎没有那么齐全）
 
-<figure div align=center>  <img src="https://xiaoqixiaowei.oss-cn-chengdu.aliyuncs.com/img_for_typora/image-20231203131553664.png" alt="image-20231203131553664" style="zoom:15%;" /> <img src="https://xiaoqixiaowei.oss-cn-chengdu.aliyuncs.com/img_for_typora/image-20231203131443046.png" alt="image-20231203131443046" style="zoom: 15%;" />       </figure>
+<div align=center>  <img src="https://xiaoqixiaowei.oss-cn-chengdu.aliyuncs.com/img_for_typora/image-20231203131553664.png" alt="image-20231203131553664" style="zoom:15%;" /> <img src="https://xiaoqixiaowei.oss-cn-chengdu.aliyuncs.com/img_for_typora/image-20231203131443046.png" alt="image-20231203131443046" style="zoom: 15%;" />      </div>
 
 
 
@@ -81,7 +81,7 @@
 
 贴膜方案，摸起来是磨砂质感，但是感觉不如纯色炫酷
 
-<figure div align=center>   <img src="https://xiaoqixiaowei.oss-cn-chengdu.aliyuncs.com/img_for_typora/image-20231203123026265.png" alt="image-20231203123026265" style="zoom: 50%;" />     <img src="https://xiaoqixiaowei.oss-cn-chengdu.aliyuncs.com/img_for_typora/image-20231203122549502.png" alt="image-20231203122549502" style="zoom: 67%;" /> </figure>
+<div align=center>   <img src="https://xiaoqixiaowei.oss-cn-chengdu.aliyuncs.com/img_for_typora/image-20231203123026265.png" alt="image-20231203123026265" style="zoom: 30%;" />     <img src="https://xiaoqixiaowei.oss-cn-chengdu.aliyuncs.com/img_for_typora/image-20231203122549502.png" alt="image-20231203122549502" style="zoom: 67%;" /> </div>
 
 ---
 
@@ -91,7 +91,7 @@
 
 我自制了一个简易的模具，然后尝试一下滴胶，我是没有成功:joy:，欢迎心灵手巧的朋友自行制作
 
-<figure div align=center>   <img src="https://xiaoqixiaowei.oss-cn-chengdu.aliyuncs.com/img_for_typora/7c1fecc6b96eb6c6bba721a8fe9ae3a.jpg" alt="7c1fecc6b96eb6c6bba721a8fe9ae3a" width="300" height="300" />     <img src="https://xiaoqixiaowei.oss-cn-chengdu.aliyuncs.com/img_for_typora/ed469983ef8ba6367f11581665067c3.png" alt="ed469983ef8ba6367f11581665067c3" width="300" height="300" /> </figure>
+<div align=center>  <img src="https://xiaoqixiaowei.oss-cn-chengdu.aliyuncs.com/img_for_typora/7c1fecc6b96eb6c6bba721a8fe9ae3a.jpg" alt="7c1fecc6b96eb6c6bba721a8fe9ae3a" width="300" height="300" />     <img src="https://xiaoqixiaowei.oss-cn-chengdu.aliyuncs.com/img_for_typora/ed469983ef8ba6367f11581665067c3.png" alt="ed469983ef8ba6367f11581665067c3" width="300" height="300" /> </div>
 
 <img src="https://xiaoqixiaowei.oss-cn-chengdu.aliyuncs.com/img_for_typora/2b1de033ff374579ec290269c43f8ea.jpg" alt="2b1de033ff374579ec290269c43f8ea" style="zoom: 25%;" />
 
@@ -99,30 +99,30 @@
 
 这个是初代的亚克力设计方案，下图是没有粘贴的时候的图， 但是粘贴的时候还存在一定的问题，后面另外一个朋友会改进一下
 
-<figure div align=center>   <img src="https://xiaoqixiaowei.oss-cn-chengdu.aliyuncs.com/img_for_typora/5a0c18eb4b6009bf24a1d71e8e86bc0.png" alt="5a0c18eb4b6009bf24a1d71e8e86bc0" width="300" height="300"" />    <img src="https://xiaoqixiaowei.oss-cn-chengdu.aliyuncs.com/img_for_typora/image-20231203120842002.png" alt="image-20231203120842002" width="500" height="300"" /></figure>
+<div align=center>   <img src="https://xiaoqixiaowei.oss-cn-chengdu.aliyuncs.com/img_for_typora/5a0c18eb4b6009bf24a1d71e8e86bc0.png" alt="5a0c18eb4b6009bf24a1d71e8e86bc0" width="300" height="300"" />    <img src="https://xiaoqixiaowei.oss-cn-chengdu.aliyuncs.com/img_for_typora/image-20231203120842002.png" alt="image-20231203120842002" width="500" height="300"" /></div>
 
 如果使用502进行粘贴，胶水会渗入到卡片上，非常丑陋。所以后面会改进一下
 
-<img src="https://xiaoqixiaowei.oss-cn-chengdu.aliyuncs.com/img_for_typora/image-20231203125059929.png" alt="image-20231203125059929" style="zoom: 67%;" />
+<div align=center><img src="https://xiaoqixiaowei.oss-cn-chengdu.aliyuncs.com/img_for_typora/image-20231203125059929.png" alt="image-20231203125059929" style="zoom: 67%;" /></div>
 
 #### 地图绘制一般化方法
 
 * 获取地图，eg. [上海交通大学校园电子地图 (sjtu.edu.cn)](https://map.sjtu.edu.cn/)
 * 截图保存
 
-<img src="https://xiaoqixiaowei.oss-cn-chengdu.aliyuncs.com/img_for_typora/image-20231203132415613.png" alt="image-20231203132415613" style="zoom:33%;" />
+<img src="https://xiaoqixiaowei.oss-cn-chengdu.aliyuncs.com/img_for_typora/image-20231203132415613.png" alt="image-20231203132415613" style="zoom:10%;" />
 
 * 选择导入图片
 
-<img src="https://xiaoqixiaowei.oss-cn-chengdu.aliyuncs.com/img_for_typora/image-20231203132522105.png" alt="image-20231203132522105" style="zoom:33%;" />
+<img src="https://xiaoqixiaowei.oss-cn-chengdu.aliyuncs.com/img_for_typora/image-20231203132522105.png" alt="image-20231203132522105" style="zoom:15%;" />
 
 * 选择导入彩色图片
 
-<img src="https://xiaoqixiaowei.oss-cn-chengdu.aliyuncs.com/img_for_typora/image-20231203132739482.png" alt="image-20231203132739482" style="zoom: 50%;" />
+<img src="https://xiaoqixiaowei.oss-cn-chengdu.aliyuncs.com/img_for_typora/image-20231203132739482.png" alt="image-20231203132739482" style="zoom: 25%;" />
 
 * 调制图片的尺寸
 
-<img src="https://xiaoqixiaowei.oss-cn-chengdu.aliyuncs.com/img_for_typora/image-20231203132829333.png" alt="image-20231203132829333" style="zoom:33%;" />
+<img src="https://xiaoqixiaowei.oss-cn-chengdu.aliyuncs.com/img_for_typora/image-20231203132829333.png" alt="image-20231203132829333" style="zoom:15%;" />
 
 * 选择合适封装的元件即可，临摹即可
 
