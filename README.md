@@ -39,7 +39,7 @@
 
 这一部分主要说明如何进行NFC名片配置，以及实现一些其他有趣的功能
 
-`下载原始链接` [NFC工具NFC Tools PRO v8.6.1 - 『精品软件区』 - 吾爱破解 - LCG - LSG |安卓破解|病毒分析|www.52pojie.cn](https://www.52pojie.cn/thread-1541093-1-1.html)
+`下载原始链接` [NFC 工具下载链接](https://www.52pojie.cn/thread-1541093-1-1.html)
 
 简要说明一下这个软件能够实现的功能（这里以安卓鸿蒙手机为例，IOS系统的同理，不过功能似乎没有那么齐全）
 
