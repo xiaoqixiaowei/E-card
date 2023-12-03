@@ -81,7 +81,7 @@
 
 贴膜方案，摸起来是磨砂质感，但是感觉不如纯色炫酷
 
-<div align=center>   <img src="https://xiaoqixiaowei.oss-cn-chengdu.aliyuncs.com/img_for_typora/image-20231203123026265.png" alt="image-20231203123026265" width="440" height="300" />     <img src="https://xiaoqixiaowei.oss-cn-chengdu.aliyuncs.com/img_for_typora/image-20231203122549502.png" alt="image-20231203122549502" width="300" height="300" /> </div>
+<div align=center>   <img src="https://xiaoqixiaowei.oss-cn-chengdu.aliyuncs.com/img_for_typora/image-20231203123026265.png" alt="image-20231203123026265" width="440" height="300" />     <img src="https://xiaoqixiaowei.oss-cn-chengdu.aliyuncs.com/img_for_typora/image-20231203122549502.png" alt="image-20231203122549502" width="400" height="300" /> </div>
 
 ---
 
