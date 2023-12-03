@@ -73,7 +73,7 @@
 
 **需要说明**的是，因为我是先设计的卡片，当时没有考虑胶壳，最后也是运气好，刚好找到了这个尺寸的壳子（3.5*5），所以在塞入卡片的时候可能需要用东西顶一下，而且不是很好取出来，不过测试完成之后也不太容易坏掉啦
 
-<img src="https://xiaoqixiaowei.oss-cn-chengdu.aliyuncs.com/img_for_typora/769e7460c06fe24727d405a076eb11d.jpg" alt="769e7460c06fe24727d405a076eb11d" style="zoom: 25%;" />
+<div align=center> <img src="https://xiaoqixiaowei.oss-cn-chengdu.aliyuncs.com/img_for_typora/769e7460c06fe24727d405a076eb11d.jpg" alt="769e7460c06fe24727d405a076eb11d" width="500" height="450" /> </div>
 
 
 
@@ -81,7 +81,7 @@
 
 贴膜方案，摸起来是磨砂质感，但是感觉不如纯色炫酷
 
-<div align=center>   <img src="https://xiaoqixiaowei.oss-cn-chengdu.aliyuncs.com/img_for_typora/image-20231203123026265.png" alt="image-20231203123026265" style="zoom: 30%;" />     <img src="https://xiaoqixiaowei.oss-cn-chengdu.aliyuncs.com/img_for_typora/image-20231203122549502.png" alt="image-20231203122549502" style="zoom: 67%;" /> </div>
+<div align=center>   <img src="https://xiaoqixiaowei.oss-cn-chengdu.aliyuncs.com/img_for_typora/image-20231203123026265.png" alt="image-20231203123026265" width="440" height="300" />     <img src="https://xiaoqixiaowei.oss-cn-chengdu.aliyuncs.com/img_for_typora/image-20231203122549502.png" alt="image-20231203122549502" width="300" height="300" /> </div>
 
 ---
 
@@ -93,13 +93,13 @@
 
 <div align=center>  <img src="https://xiaoqixiaowei.oss-cn-chengdu.aliyuncs.com/img_for_typora/7c1fecc6b96eb6c6bba721a8fe9ae3a.jpg" alt="7c1fecc6b96eb6c6bba721a8fe9ae3a" width="300" height="300" />     <img src="https://xiaoqixiaowei.oss-cn-chengdu.aliyuncs.com/img_for_typora/ed469983ef8ba6367f11581665067c3.png" alt="ed469983ef8ba6367f11581665067c3" width="300" height="300" /> </div>
 
-<img src="https://xiaoqixiaowei.oss-cn-chengdu.aliyuncs.com/img_for_typora/2b1de033ff374579ec290269c43f8ea.jpg" alt="2b1de033ff374579ec290269c43f8ea" style="zoom: 25%;" />
+<div align=center> <img src="https://xiaoqixiaowei.oss-cn-chengdu.aliyuncs.com/img_for_typora/2b1de033ff374579ec290269c43f8ea.jpg" alt="2b1de033ff374579ec290269c43f8ea" width="500" height="300" /></div>
 
 ###### 树脂打印方案（务必喷油；后续设计好之后也会放在项目中）
 
 这个是初代的亚克力设计方案，下图是没有粘贴的时候的图， 但是粘贴的时候还存在一定的问题，后面另外一个朋友会改进一下
 
-<div align=center>   <img src="https://xiaoqixiaowei.oss-cn-chengdu.aliyuncs.com/img_for_typora/5a0c18eb4b6009bf24a1d71e8e86bc0.png" alt="5a0c18eb4b6009bf24a1d71e8e86bc0" width="300" height="300"" />    <img src="https://xiaoqixiaowei.oss-cn-chengdu.aliyuncs.com/img_for_typora/image-20231203120842002.png" alt="image-20231203120842002" width="500" height="300"" /></div>
+<div align=center>   <img src="https://xiaoqixiaowei.oss-cn-chengdu.aliyuncs.com/img_for_typora/5a0c18eb4b6009bf24a1d71e8e86bc0.png" alt="5a0c18eb4b6009bf24a1d71e8e86bc0" width="300" height="300" />    <img src="https://xiaoqixiaowei.oss-cn-chengdu.aliyuncs.com/img_for_typora/image-20231203120842002.png" alt="image-20231203120842002" width="500" height="300"" /></div>
 
 如果使用502进行粘贴，胶水会渗入到卡片上，非常丑陋。所以后面会改进一下
 
@@ -110,19 +110,19 @@
 * 获取地图，eg. [上海交通大学校园电子地图 (sjtu.edu.cn)](https://map.sjtu.edu.cn/)
 * 截图保存
 
-<img src="https://xiaoqixiaowei.oss-cn-chengdu.aliyuncs.com/img_for_typora/image-20231203132415613.png" alt="image-20231203132415613" style="zoom:10%;" />
+<div align=center> <img src="https://xiaoqixiaowei.oss-cn-chengdu.aliyuncs.com/img_for_typora/image-20231203132415613.png" alt="image-20231203132415613" style="zoom:5%;" /></div>
 
 * 选择导入图片
 
-<img src="https://xiaoqixiaowei.oss-cn-chengdu.aliyuncs.com/img_for_typora/image-20231203132522105.png" alt="image-20231203132522105" style="zoom:15%;" />
+<div align=center><img src="https://xiaoqixiaowei.oss-cn-chengdu.aliyuncs.com/img_for_typora/image-20231203132522105.png" alt="image-20231203132522105" style="zoom:5%;" /></div>
 
 * 选择导入彩色图片
 
-<img src="https://xiaoqixiaowei.oss-cn-chengdu.aliyuncs.com/img_for_typora/image-20231203132739482.png" alt="image-20231203132739482" style="zoom: 25%;" />
+<div align=center><img src="https://xiaoqixiaowei.oss-cn-chengdu.aliyuncs.com/img_for_typora/image-20231203132739482.png" alt="image-20231203132739482" style="zoom: 5%;" /></div>
 
 * 调制图片的尺寸
 
-<img src="https://xiaoqixiaowei.oss-cn-chengdu.aliyuncs.com/img_for_typora/image-20231203132829333.png" alt="image-20231203132829333" style="zoom:15%;" />
+<div align=center><img src="https://xiaoqixiaowei.oss-cn-chengdu.aliyuncs.com/img_for_typora/image-20231203132829333.png" alt="image-20231203132829333" style="zoom:5%;" /></div>
 
 * 选择合适封装的元件即可，临摹即可
 
