@@ -25,7 +25,7 @@
 
 #### 项目文件说明：
 
-<img src="https://xiaoqixiaowei.oss-cn-chengdu.aliyuncs.com/img_for_typora/image-20231202230845209.png" alt="image-20231202230845209" style="zoom:33%;" />
+<img src="https://xiaoqixiaowei.oss-cn-chengdu.aliyuncs.com/img_for_typora/image-20231202230845209.png" alt="image-20231202230845209" style="zoom:15%;" />
 
 ​	**Hardware:** 立创EDA专业版文件，可以自行查看修改
 
@@ -43,7 +43,7 @@
 
 简要说明一下这个软件能够实现的功能（这里以安卓鸿蒙手机为例，IOS系统的同理，不过功能似乎没有那么齐全）
 
-<figure div align=center>  <img src="https://xiaoqixiaowei.oss-cn-chengdu.aliyuncs.com/img_for_typora/image-20231203131553664.png" alt="image-20231203131553664" style="zoom:67%;" /> <img src="https://xiaoqixiaowei.oss-cn-chengdu.aliyuncs.com/img_for_typora/image-20231203131443046.png" alt="image-20231203131443046" style="zoom: 67%;" />       </figure>
+<figure div align=center>  <img src="https://xiaoqixiaowei.oss-cn-chengdu.aliyuncs.com/img_for_typora/image-20231203131553664.png" alt="image-20231203131553664" style="zoom:15%;" /> <img src="https://xiaoqixiaowei.oss-cn-chengdu.aliyuncs.com/img_for_typora/image-20231203131443046.png" alt="image-20231203131443046" style="zoom: 15%;" />       </figure>
 
 
 
