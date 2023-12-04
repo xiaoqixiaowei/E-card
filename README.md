@@ -23,6 +23,7 @@
 >
 > 最后的最后，电院是个大家庭，我还绘制了一个包含电气学院的卡片（这栋楼不在电院群楼太可惜了 :pensive:）
 
+立创eda开源链接：https://oshwhub.com/987654nb/nfc_sjtu-dian-yuan-ban-ben-v4-2
 #### 项目文件说明：
 
 <img src="https://xiaoqixiaowei.oss-cn-chengdu.aliyuncs.com/img_for_typora/image-20231202230845209.png" alt="image-20231202230845209" style="zoom:15%;" />
